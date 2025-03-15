@@ -25,21 +25,14 @@ Aqui está uma visão geral do meu GitHub, incluindo estatísticas sobre commits
 
 ---
 
-## Ferramentas que uso
-
-- **Git & GitHub** para controle de versões.
-- **VSCode** como editor de código.
-- **Postman** para testar APIs.
-- **Docker** para containerização de aplicações.
-
 Sinta-se à vontade para explorar os meus repositórios! 🚀
 
 ---
 
 Se você quiser saber mais sobre mim, pode visitar os links abaixo:
 
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)
-- [Portfólio](https://www.seuportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/lucas-garcia-9b72471b4/)
+- [Vercel](https://vercel.com/lucas-garcias-projects-f8384a26)
 
 ---
 
