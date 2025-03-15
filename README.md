@@ -15,7 +15,8 @@ Here you can find my projects and repositories. I am passionate about programmin
 
 ### 📊 Estatistics GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Garciadevv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Garciadevv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&cache_seconds=1800)
+
 
 ### 🖋️ Languages I use the most
 
