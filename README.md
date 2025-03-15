@@ -1,7 +1,5 @@
-## Hello world, my name is Lucas Garcia, be very welcome
-# Olá! Bem-vindo ao meu GitHub 👋
+## Hello world, my name is Lucas Garcia, be very welcome !!!
 Aqui você encontra os meus projetos e repositórios. Sou apaixonado por programação e gosto de trabalhar principalmente com as seguintes tecnologias:
-
 ## Linguagens que mais utilizo
 
 <p align="center">
