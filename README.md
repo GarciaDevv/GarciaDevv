@@ -10,16 +10,17 @@ Aqui você encontra os meus projetos e repositórios. Sou apaixonado por program
 ## Linguagens que mais utilizo
 
 ### 💻 JavaScript
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/69/HTML5_logo_and_wordmark.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="JavaScript" width="40">
 
 ### 🌐 HTML
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/7/73/HTML5_logo_and_wordmark.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40">
 
 ### 🎨 CSS
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="40">
 
 ### ⚙️ C++
-![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40">
+
 
 ---
 
@@ -29,11 +30,11 @@ Aqui está uma visão geral do meu GitHub, incluindo estatísticas sobre commits
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Garciadevv&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ### 🖋️ Linguagens mais usadas
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garciadevv&layout=compact&theme=radical)
 
 ---
 
