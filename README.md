@@ -1,20 +1,15 @@
-## Hello world, my name I´s Lucas Garcia, be very welcome
+## Hello world, my name is Lucas Garcia, be very welcome
 # Olá! Bem-vindo ao meu GitHub 👋
 Aqui você encontra os meus projetos e repositórios. Sou apaixonado por programação e gosto de trabalhar principalmente com as seguintes tecnologias:
 
 ## Linguagens que mais utilizo
 
-### 💻 JavaScript
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/69/HTML5_logo_and_wordmark.svg)
-
-### 🌐 HTML
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/7/73/HTML5_logo_and_wordmark.svg)
-
-### 🎨 CSS
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-
-### ⚙️ C++
-![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="JavaScript" width="50" style="margin-right: 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" style="margin-right: 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3" width="50" style="margin-right: 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50">
+</p>
 
 ---
 
@@ -51,4 +46,3 @@ Se você quiser saber mais sobre mim, pode visitar os links abaixo:
 ---
 
 Se você tiver alguma dúvida ou sugestão, não hesite em abrir uma **issue** ou mandar uma mensagem! 😄
-
