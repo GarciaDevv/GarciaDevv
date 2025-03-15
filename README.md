@@ -20,7 +20,8 @@ Here you can find my projects and repositories. I am passionate about programmin
 
 ### 🖋️ Languages I use the most
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garciadevv&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garciadevv&layout=compact&theme=radical&cache_seconds=1800)
+
 
 ---
 
