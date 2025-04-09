@@ -1,4 +1,5 @@
 ## Hello world, my name is Lucas Garcia, be very welcome !!!
+I am improving my skills in the backend development field. I’ve been studying topics such as APIs, databases, server-side logic, and security. My focus is on writing clean, efficient code and understanding how to build scalable and reliable systems. I’m also exploring different backend frameworks and best practices to become a well-rounded developer
 Here you can find my projects and repositories. I am passionate about programming and I like to work mainly with the following technologies:
 ## Languages I use the most
 
